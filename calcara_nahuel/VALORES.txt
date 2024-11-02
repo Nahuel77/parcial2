@@ -1,0 +1,4 @@
+Peon	850
+Capataz 1000
+Jefe	1250
+Gerente	1500

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1730499208 source:c:\users\nahuel\desktop\calcara nahuel parcial 2do programacion, analisis de sistema\calcara_nahuel\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1730499162 c:\users\nahuel\desktop\calcara nahuel parcial 2do programacion, analisis de sistema\calcara_nahuel\header.h
+
